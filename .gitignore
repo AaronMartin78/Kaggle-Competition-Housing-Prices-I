@@ -1,3 +1,11 @@
+# Ignore Batch file for Jupyter start up
 start_jupyter.bat 
-".ipynb_checkpoints/" 
-"Untitled.ipynb" 
+
+# Ignore checkpoints
+.ipynb_checkpoints/
+
+# ignore untitled wirkbooks
+Untitled*.ipynb
+
+# Ignore all .csv files
+*.csv

@@ -7,5 +7,6 @@ start_jupyter.bat
 #Ignore untitles notebooks
 Untitled*.ipynb
 
-# Ingnore all .csv files
+# Ignore all .csv files
 *.csv
+

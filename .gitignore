@@ -1,3 +1,11 @@
+# batch file for Jupyter Start
 start_jupyter.bat 
-".ipynb_checkpoints/" 
-"Untitled.ipynb" 
+
+#All .ipynb checkpoints
+.ipynb_checkpoints/
+
+#Ignore untitles notebooks
+Untitled*.ipynb
+
+# Ingnore all .csv files
+*.csv

@@ -8,4 +8,4 @@ start_jupyter.bat
 Untitled*.ipynb
 
 # Ignore all .csv files
-*.csv
+# *.csv
